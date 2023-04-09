@@ -5,7 +5,7 @@
 Checklist:
 
 - [ ] I've read and understood [Contributing Guidelines](CONTRIBUTING.md).
-- [ ] I've added the new resource at the end of its section.
+- [ ]  I've added the new resource at the end of its section.
 - [ ] This resource is out there for a while, and actively maintained.
 - [ ] This resource is popular enough and has at least a few hundred stars on GitHub.
 
